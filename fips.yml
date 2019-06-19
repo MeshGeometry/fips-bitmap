@@ -1,0 +1,9 @@
+#
+# fips-shapeop
+#
+---
+
+exports:
+    header-dirs: 
+      - .
+
