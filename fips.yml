@@ -5,5 +5,5 @@
 
 exports:
     header-dirs: 
-      - .
+      - bitmap/
 
